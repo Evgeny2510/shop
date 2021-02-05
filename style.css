@@ -1,0 +1,45 @@
+.single-goods{
+    width: 180px;
+    height: 370px;
+    border:1px solid black;
+    margin: 10px;
+    float: left;
+  
+    text-align: center;
+  
+}
+.single-goods img{
+    width: 150px;
+    height: 150px;
+}
+.single-goods button{
+    display: block;
+    margin: 20px auto;
+}
+
+/* #mini-cart{ */
+    /* border: 1px solid blue; */
+/* } */
+
+span{
+    font-size: 28px;
+    text-align: center;
+    border-bottom: blue;
+    display: block;
+}
+
+span:hover{
+    color: green;
+}
+
+p {
+    text-align:center;
+    padding-top: 20%;
+    font-size: 22px;
+    color:red;
+    display: block;
+}
+
+#shop{
+    text-align:center; */
+/* }

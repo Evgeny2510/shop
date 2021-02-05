@@ -1,0 +1,32 @@
+{
+    "11292": {
+        "name": "תפוחים",
+        "cost": 12,
+        "description": "תפוחים תריאים, ומאוד יפים",
+        "image": "image/c.png"
+    },
+    "11293": {
+        "name": "תפוזים",
+        "cost": 24,
+        "description": "תפוזים תריאים, ומאוד יפים",
+        "image": "image/a.png"
+    },
+    "11294": {
+        "name": "עגביות",
+        "cost": 30,
+        "description": "עגביות תריאים, ומאוד יפים",
+        "image": "image/he.png"
+    },
+    "11295": {
+        "name": "מלפפונים",
+        "cost": 57,
+        "description": "מלפפונים תריאים, ומאוד יפים",
+        "image": "image/b.png"
+    },
+    "11296": {
+        "name": "פלפלים",
+        "cost": 8,
+        "description": "פלפלים תריאים, ומאוד יפים",
+        "image": "image/pepr.png"
+    }
+}

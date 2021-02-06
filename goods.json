@@ -3,30 +3,30 @@
         "name": "תפוחים",
         "cost": 12,
         "description": "תפוחים תריאים, ומאוד יפים",
-        "image": "image/c.png"
+        "image": "image/apple.png"
     },
     "11293": {
         "name": "תפוזים",
         "cost": 24,
         "description": "תפוזים תריאים, ומאוד יפים",
-        "image": "image/a.png"
+        "image": "image/aa.png"
     },
     "11294": {
-        "name": "עגביות",
+        "name": "עגביה",
         "cost": 30,
         "description": "עגביות תריאים, ומאוד יפים",
-        "image": "image/he.png"
+        "image": "image/Tomato.png"
     },
     "11295": {
-        "name": "מלפפונים",
+        "name": "מלפפון",
         "cost": 57,
         "description": "מלפפונים תריאים, ומאוד יפים",
-        "image": "image/b.png"
+        "image": "image/Cucumber.png"
     },
     "11296": {
         "name": "פלפלים",
         "cost": 8,
         "description": "פלפלים תריאים, ומאוד יפים",
-        "image": "image/pepr.png"
+        "image": "image/pepper.png"
     }
 }

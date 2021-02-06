@@ -15,8 +15,8 @@ function loadGoods() {
         for (var key in data) {
             out += '<div class="single-goods">';
             out += '<h2>' + data[key]['name'] + '</h2>';
-            out += '<p> מחיר: ' + data[key]['cost'] + '</p>';
             out += '<img src="' + data[key].image + '">';
+            out += '<h4> מחיר: ' + data[key]['cost'] + '</h4>';
             out += '<button class="add-to-cart" data-art="' + key + '">לקנות</button>';
             out += '</div>';
         }

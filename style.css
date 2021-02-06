@@ -1,29 +1,32 @@
+body{
+    text-align: center;
+}
+
 .single-goods{
     width: 180px;
-    height: 370px;
+    height:200px;
     border:1px solid black;
-    margin: 10px;
-    float: left;
+    float: none;
+    margin: 0 auto;
   
-    text-align: center;
+  
   
 }
 .single-goods img{
-    width: 150px;
-    height: 150px;
+    width: 50px;
+    height: 50px;
+    margin: 0 35%;
+    
+   
 }
 .single-goods button{
     display: block;
     margin: 20px auto;
 }
 
-/* #mini-cart{ */
-    /* border: 1px solid blue; */
-/* } */
-
 span{
     font-size: 28px;
-    text-align: center;
+   
     border-bottom: blue;
     display: block;
 }
@@ -33,13 +36,24 @@ span:hover{
 }
 
 p {
-    text-align:center;
+   
     padding-top: 20%;
     font-size: 22px;
     color:red;
-    display: block;
+    display: none;
 }
 
 #shop{
-    text-align:center; */
-/* }
+    
+    /* padding-top: 10px; */
+    /* display: flex; */
+    /* text-align: center; */
+}
+
+.pic{
+    width: 50px;
+}
+
+.main{
+    /* align-items: center; */
+}

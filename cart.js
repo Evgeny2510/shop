@@ -18,13 +18,13 @@ $.getJSON('goods.json', function (data) {
             for (var key in cart) {
                 out += '<div class="shop">'
                 out += '<button class="delete" data-art="' + key + '">x</button>';
-                out += '<img src="' + goods[key].image + '" width="150">';
+                out += '<img class="pic" src="' + goods[key].image + '">';
                 out += goods[key].name;
                 out += '<button class="minus" data-art="' + key + '">-</button>';
                 out += cart[key];
                 out += '<button class="plus" data-art="' + key + '">+</button>';
                 out += cart[key] * goods[key].cost;
-                out += '<br/><br/>';
+                // out += '<br/><br/>';
                 out += '</div>'
             }
             $('#my-cart').html(out);
